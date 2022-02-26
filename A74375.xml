@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for preventing injuries and wrongs done to merchants at sea, in their persons, ships or goods; and prohibiting mariners from serving under forraign princes or states without license. Die Sabbathi, 13⁰ Aprilis, 1650. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74375</idno>
+            <idno type="STC">Thomason E1060_96</idno>
+            <idno type="STC">ESTC R208847</idno>
+            <idno type="EEBO-CITATION">99867768</idno>
+            <idno type="PROQUEST">99867768</idno>
+            <idno type="VID">169046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169046)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[96])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for preventing injuries and wrongs done to merchants at sea, in their persons, ships or goods; and prohibiting mariners from serving under forraign princes or states without license. Die Sabbathi, 13⁰ Aprilis, 1650. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 799-804 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and Iohn Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 7E⁴. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>On 7E2r: last word of first line of text: "late"; first word of line below initial: "Forraign"; last word of last full line: "time".</note>
+                  <note>Ornament on t.p.; initial letter; some text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Maritime law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169046:1" rendition="simple:additions"/>
+            <p>AN ACT For preventing Injuries and Wrongs done to MERCHANTS at Sea, In their Perſons, Ships or Goods; And prohibiting Mariners from ſerving under Forraign Princes or States without Licenſe.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>Die Sabbathi, 13<hi rend="sup">o</hi> Aprilis, 1650.</p>
+            <p>
+               <hi>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>Hen: Scobell, Cleric. Parliamenti.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>Iohn Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to the Parliament of <hi>England,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169046:2"/>
+            <pb n="799" facs="tcp:169046:2"/>
+            <head>AN ACT For preventing Injuries and VVrongs done to Merchants at Sea, In their Perſons, Ships or Goods, And prohibiting Mariners from ſerving under Forraign Princes or States without Licenſe.</head>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas ſince the late Act made the Five and twentieth of <hi>June,</hi> One thouſand ſix hun<g ref="char:EOLhyphen"/>dred forty nine, (enti<g ref="char:EOLhyphen"/>tuled, <hi>An Act touching Letters of Mart</hi>) The Parliament having re<g ref="char:EOLhyphen"/>ceived Information, That divers French Ships, and others of Forraign Nations, have taken upon them <hi>de facto,</hi> to viſit the ſaid Engliſh Ships, and to make ſearch what goods they carried, and un<g ref="char:EOLhyphen"/>der colour thereof, have ſpoiled divers of their Ships, and ſeized others, and committed ſe<g ref="char:EOLhyphen"/>veral wrongs and abuſes, to the great damage of the good People of this Commonwealth; For remedy whereof, and for the better enabling the Merchants to preſerve their Ships and Goods againſt ſuch Wrongs and Injuries for the future, Be it Enacted and Ordained by this preſent Parliament, and by the Authority of the ſame, That the Councel of State for the time
+<pb n="800" facs="tcp:169046:3"/> being, eſtabliſhed by Parliament, ſhall have full and abſolute power, and are hereby authorized and enabled, not onely to hear and examine all Petitions and Complaints of this nature; and thereupon, and upon conſideration of the cir<g ref="char:EOLhyphen"/>cumſtances of the caſe, and obſervations of ſuch ſolemnities ſpecified in the ſaid former Act of the Five and twentieth of <hi>June,</hi> to grant and give Warrant for ſpecial and particular Letters of Mart to the parties injured and damnified in this kinde, in ſuch ſort and maner as they are enabled to grant in any other caſe by that ſaid former Act; But alſo to grant and give Warrant for, and cauſe to be iſſued out under the Seal of the Court of Admiralty, in the Name of the <hi>Keepers of the Liberty of <hi>England,</hi> eſta<g ref="char:EOLhyphen"/>bliſhed by Parliament,</hi> ſpecial and particular Com<g ref="char:EOLhyphen"/>miſsions to all or any ſuch Merchants Ships, or, other Engliſh Ships, as the ſaid Coun<g ref="char:EOLhyphen"/>cel of State ſhall finde meet, to enable them and give them free Licenſe and Authority, not onely to deny and make defence againſt any ſuch viſi<g ref="char:EOLhyphen"/>tation or commands, to be viſited by any ſuch French or other Forraign Ships for the time to come; but alſo as they may finde opportunity to fight with, ſurprize and take all and every ſuch French Ships or Veſſels, and other Forraign Ships (together with all the Ordnance, Am<g ref="char:EOLhyphen"/>munition, Tackle, Furniture, Goods, Wares and Merchandizes found in or belonging to the ſame) that ſhall ſo require or command them to be viſited, or attempt to ſpoil, annoy, moleſt, diſturb or hinder them in their trading or mer<g ref="char:EOLhyphen"/>chandizing voyages, under colour of ſuch undue viſitation. Provided always, That if they ſhall happen ſo to ſurprize or take any ſuch French Ships or Forraign Veſſels as aforeſaid, That
+<pb n="801" facs="tcp:169046:3"/> after the ſaid Surprizal &amp; Fight ended, they ſhall not kill or ſlay any of the perſons therein taken, nor commit any man-ſlaughter in cold blood, but ſhal uſe them civilly, only reſtraining and de<g ref="char:EOLhyphen"/>taining them as Priſoners (if they may without prejudice to their Ship or their voyages) to be ſent over into <hi>England,</hi> to be proceeded againſt or diſpoſed of as the Councel of State ſhall adviſe; otherwiſe if they ſhall finde it hazardous or da<g ref="char:EOLhyphen"/>mageable ſo to do, Then to ſet them on ſhore where they may have opportunity, ſo always that they retain three at the leaſt of the principal that ſhall be taken to be brought or ſent into <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and examined in the Admiralty Court, up<g ref="char:EOLhyphen"/>on all ſuch queſtions as ſhall in that Court be thought fit, for the diſcovering the truth of the matter, how and in what ſort the ſaid For<g ref="char:EOLhyphen"/>raign Ships did firſt require or attempt to fight with the Engliſh, or command them to ſuffer themſelves to be viſited, or what other injuries or abuſes they offered them, with all other cir<g ref="char:EOLhyphen"/>cumſtances requiſite in the caſe. And provided further, That the Takers ſhall be obliged to proceed in the Court of Admiralty of <hi>England,</hi> againſt all Ships and Goods ſo taken, and bring the ſame to Iudgement, according to the courſe of that Court; and if it ſhall be duly proved and made appear, that they were taken by reaſon of their undue commitment of any of the particu<g ref="char:EOLhyphen"/>lars before recited, mentioned and provided againſt in and by this Act, That then and in that caſe, the Iudges of the ſaid Court ſhall give Iudgement that the ſame were lawfully taken, and that the ſame were and are lawful Prizes to the Owners and Captain, or Maſter and Marriners of the Ship or Ships, takers whereof; two thirds to be to the Owners in re<g ref="char:EOLhyphen"/>ſpect
+<pb n="802" facs="tcp:169046:4"/> of their extraordinary charge to Arm and Man their Ships in an extraordinary maner for this occaſion; and the other third to be to the Maſter and Marriners, to be ſhared amongſt them according to cuſtom of the Sea in ſuch caſe. Provided alſo, That the Tenths of all ſuch Prizes, or the true and full value thereof without deduction, ſhall be duly paid to the Col<g ref="char:EOLhyphen"/>lectors of Prize-Goods, to be diſpoſed of by the Councel of State as they ſhall ſee cauſe, for the uſe of the Commonwealth. And provided fur<g ref="char:EOLhyphen"/>ther, That for every ſuch Commiſsion before the ſame iſſue forth under the Seal, ſecurity ſhall be taken with Securities by Recognizance in the Admiralty Court in the ſum of Two thou<g ref="char:EOLhyphen"/>ſand pounds, not to harm or prejudice the Mer<g ref="char:EOLhyphen"/>chants or good People of this Commonwealth, or any of the Friends or Allies of this Nation, in any other caſe then in the caſes before recited, mentioned and provided againſt in and by this Act; and likewiſe to obſerve and follow all ſuch other Clauſes, Inſtructions and things, as the Councel of State ſhall at the time of giving Warrant for any ſuch Commiſsion think meet, and order or appoint. And whereas divers En<g ref="char:EOLhyphen"/>gliſh Marriners and Seamen, have of late time ſerved in the Ships of Forraign Princes, and in Forraign Veſſels (contrary to the Laws and Statutes of this Nation) and therein done diſ-ſervice to and againſt the Engliſh Mer<g ref="char:EOLhyphen"/>chants; Be it Enacted, That all Engliſh Mar<g ref="char:EOLhyphen"/>riners and Seamen, that are now ſerving abroad in the Service of any Forraign Prince or State, ſhall within the ſpace of four Moneths next en<g ref="char:EOLhyphen"/>ſuing, withdraw themſelves from ſuch Forraign Service, and repair home to ſerve the Common<g ref="char:EOLhyphen"/>wealth of <hi>England</hi> according to their duty, under
+<pb n="803" facs="tcp:169046:4"/> pain to be ſeverely puniſhed: And to the end that no Engliſh Ship, either Merchants or other, may be hereafter loſt, taken or yielded up by the treachery or cowardize of any Marriner, or other aboard the ſaid Ship; Be it alſo Enacted by the authority aforeſaid, That if any Captain, Ma<g ref="char:EOLhyphen"/>ſter or Commander of any Engliſh Ship, ſhall from henceforth through falſhood, or any other ground or reaſon, neglect to do his duty in de<g ref="char:EOLhyphen"/>fence of the Ship wherein he is Maſter or Com<g ref="char:EOLhyphen"/>mander; or if any Marriner, or other perſon whatſoever aboard any ſuch Ship, ſhall trea<g ref="char:EOLhyphen"/>cherouſly offer to cry for Quarter, or to yield up the ſaid Ship, without the ſpecial order of the ſaid Captain, Maſter or Commander in Chief, or ſhall diſhearten any of the reſt of the Marri<g ref="char:EOLhyphen"/>ners, or refuſe to ſtand to his Arms in time of fight or danger, That in every ſuch caſe, the Of<g ref="char:EOLhyphen"/>fender or Offenders being duly tryed and proved to be guilty, ſhall incur and ſuffer the pains of death, or ſuch other puniſhment as the nature or quality of the Offence ſhall deſerve: And if any Engliſh Marriners and Seamen, ſhal from and after the paſsing of this Act depart out of <hi>England,</hi> and enter into any Forraign Service (without ſpecial Licenſe firſt obtained) that eve<g ref="char:EOLhyphen"/>ry ſuch Offence ſhall be puniſhed with death. Provided, That the penalties in this Act contained, prohibiting Marriners to be enter<g ref="char:EOLhyphen"/>tained in the Service of Forraign Princes, ſhall not extend to Marriners ſerving in Engliſh Ships, under Engliſh Commanders, enter<g ref="char:EOLhyphen"/>tained in the Service of ſuch Forraign States in the way of Merchandize, as are in Amity with this Commonwealth. And whereas divers guilty perſons, ſubject to the ancient Iuriſ<g ref="char:EOLhyphen"/>diction of the Admiralty, there to be tryed and
+<pb n="804" facs="tcp:169046:5"/> puniſhed for their criminal Offences, have lately committed foul miſdemeanors upon the Sea, and in Ships and otherwiſe, giving out, That the Criminal part of the Iuriſdiction of the Admiralty Court was taken away by a late Act of Parliament, made the Twentieth of <hi>September,</hi> One thouſand ſix hundred forty nine (entituled, <hi>An Act for puniſhment of Crimes com<g ref="char:EOLhyphen"/>mitted upon or beyond the Seas</hi>) and that therefore they hoped to avoid ſuch puniſhment as was due unto them, whereas the Parliament did not intend by the ſaid Act, nor any Clauſe there<g ref="char:EOLhyphen"/>in, to abridge or diminiſh (much leſs to take away) the Power or Iuriſdiction of the Admi<g ref="char:EOLhyphen"/>ralty in Criminal cauſes; Be it therefore De<g ref="char:EOLhyphen"/>clared and Enacted by this preſent Parliament, and by the Authority of the ſame, That the Councel of State in whom the power of the Admiralty is placed, and the Court of Admi<g ref="char:EOLhyphen"/>ralty and Iudges thereof, and all and every of them, ſhall &amp; may hear, order &amp; determine all and all maner of Crimes, Contempts, Miſdemea<g ref="char:EOLhyphen"/>nors and Offences whatſoever, done or commit<g ref="char:EOLhyphen"/>ted, or to be had, done or committed within or againſt the Precincts and Iuriſdiction of the Admiralty, as fully, freely and intirely as they or any of them might have done before the making of the ſaid Act of the Twentieth of <hi>September,</hi> and in as large and ample maner as if that Act had never been made; and that Com<g ref="char:EOLhyphen"/>miſsions of <hi>Oyer</hi> and <hi>Terminer</hi> ſhall iſſue out un<g ref="char:EOLhyphen"/>der the Great Seal, directed to the Iudges of the Admiralty, and other diſcreet perſons, for the tryal of Maritine Offenders, as by the Laws and Cuſtoms was formerly uſed in the Admiralty.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
